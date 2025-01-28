@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\geova\OneDrive\Ambiente de Trabalho\tests\build\CMakeFiles\7e0a0e9183ff10ff9bbeb6a828c82fef\run_code.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\geova\OneDrive\Ambiente de Trabalho\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\geova\OneDrive\Ambiente de Trabalho\tests\build\CMakeFiles\run_code" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CA17AD8A-52C6-39EC-9FA5-F8CD5C54FF3A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

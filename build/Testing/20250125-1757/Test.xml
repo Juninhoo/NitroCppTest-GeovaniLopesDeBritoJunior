@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250125-1757-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.31.4"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="Geovani"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="8"
+	ModelName="AMD Ryzen 7 5700U with Radeon Graphics         "
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="28395"
+	TotalPhysicalMemory="14197"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1796"
+	>
+	<Testing>
+		<StartDateTime>Jan 25 20:58 Hora padr[NON-UTF-8-BYTE-0xE3]o de GMT</StartDateTime>
+		<StartTestTime>1737838689</StartTestTime>
+		<TestList>
+			<Test>./test/UnitTest</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>UnitTest</Name>
+			<Path>./test</Path>
+			<FullName>./test/UnitTest</FullName>
+			<FullCommandLine>"C:\Users\geova\OneDrive\Ambiente de Trabalho\tests\build\test\Debug\UnitTest.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.498487</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"C:\Users\geova\OneDrive\Ambiente de Trabalho\tests\build\test\Debug\UnitTest.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNk99rwjAQgN/7V9yjPlicjCGDPYhj4oY/EN2LlRHT0wbSnCRXt/33S+1WWmXae2mafPddmuYWmTHK7CEVyrTasLOUwvAxWjm0LtojHUU0M/hs1RGjQbpVaBghRlhasRU6oYjRsSeJ9hrzcXXorIz2+egj14dSBuunMjaw+K3dh5OkKN47vYDLlH+GwbpTxgZGmnzRAkBzVJZM6jcEDrmTHc7gh6p1gZKF8fta+rlgDYvVFE6xqS+FQzKObSaZ7MDEI2T2B+ETipi9NUuAVhdS175W6F1oFY9NTvt5ReZakQu4QYEpNbXXyQbqgUUxFFpmWtxyn6EN5GN3+toJckLxNXUNbCCeW2X4traCldJm96rAgYmFbgf1rF4169WRubyIf7PhXPh/UZrPbt9/FLT6lwdQwhPlnG+1mZ0IvSObYpwvvSgdhr5tlolycBCWgXbACRYdRhkfMoZP4cBiSkeMwTskgvLd9yURY1fAiUWXkI7z7Ltu7x6233nvboIfqY1sAg==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jan 25 20:58 Hora padr[NON-UTF-8-BYTE-0xE3]o de GMT</EndDateTime>
+		<EndTestTime>1737838690</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

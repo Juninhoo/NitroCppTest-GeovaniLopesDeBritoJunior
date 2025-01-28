@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250126-0214-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.31.4"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="Geovani"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="8"
+	ModelName="AMD Ryzen 7 5700U with Radeon Graphics         "
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="28395"
+	TotalPhysicalMemory="14197"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1796"
+	>
+	<Testing>
+		<StartDateTime>Jan 26 06:23 Hora padr[NON-UTF-8-BYTE-0xE3]o de GMT</StartDateTime>
+		<StartTestTime>1737872582</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 26 06:23 Hora padr[NON-UTF-8-BYTE-0xE3]o de GMT</EndDateTime>
+		<EndTestTime>1737872582</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

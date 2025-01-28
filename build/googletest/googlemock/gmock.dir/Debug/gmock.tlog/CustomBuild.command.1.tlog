@@ -1,0 +1,10 @@
+^C:\USERS\GEOVA\ONEDRIVE\AMBIENTE DE TRABALHO\TESTS\GOOGLETEST\GOOGLEMOCK\CMAKELISTS.TXT
+setlocal
+C:\Users\geova\Downloads\cmake-3.31.4-windows-x86_64\cmake-3.31.4-windows-x86_64\bin\cmake.exe "-SC:/Users/geova/OneDrive/Ambiente de Trabalho/tests" "-BC:/Users/geova/OneDrive/Ambiente de Trabalho/tests/build" --check-stamp-file "C:/Users/geova/OneDrive/Ambiente de Trabalho/tests/build/googletest/googlemock/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

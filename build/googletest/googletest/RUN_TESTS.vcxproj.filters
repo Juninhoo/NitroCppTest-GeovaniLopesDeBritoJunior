@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\geova\OneDrive\Ambiente de Trabalho\tests\build\CMakeFiles\9157df152ad8648edce044f40cbe90b9\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CA17AD8A-52C6-39EC-9FA5-F8CD5C54FF3A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

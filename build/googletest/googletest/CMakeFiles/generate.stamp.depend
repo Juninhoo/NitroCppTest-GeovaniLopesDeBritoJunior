@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake
+C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CheckIncludeFile.cmake
+C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CheckLibraryExists.cmake
+C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/FindPackageMessage.cmake
+C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/FindThreads.cmake
+C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/geova/OneDrive/Ambiente de Trabalho/tests/googletest/googletest/CMakeLists.txt
+C:/Users/geova/OneDrive/Ambiente de Trabalho/tests/googletest/googletest/cmake/Config.cmake.in
+C:/Users/geova/OneDrive/Ambiente de Trabalho/tests/googletest/googletest/cmake/gtest.pc.in
+C:/Users/geova/OneDrive/Ambiente de Trabalho/tests/googletest/googletest/cmake/gtest_main.pc.in
+C:/Users/geova/OneDrive/Ambiente de Trabalho/tests/googletest/googletest/cmake/internal_utils.cmake

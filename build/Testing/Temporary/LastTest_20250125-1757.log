@@ -1,0 +1,46 @@
+Start testing: Jan 25 20:58 Hora padrão de GMT
+----------------------------------------------------------
+1/1 Testing: UnitTest
+1/1 Test: UnitTest
+Command: "C:/Users/geova/OneDrive/Ambiente de Trabalho/tests/build/test/Debug/UnitTest.exe"
+Directory: C:/Users/geova/OneDrive/Ambiente de Trabalho/tests/build/test
+"UnitTest" start time: Jan 25 20:58 Hora padrão de GMT
+Output:
+----------------------------------------------------------
+Running main() from C:\Users\geova\OneDrive\Ambiente de Trabalho\tests\googletest\googletest\src\gtest_main.cc
+[==========] Running 8 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 6 tests from RectangleTest
+[ RUN      ] RectangleTest.ConstructorAndGetters
+[       OK ] RectangleTest.ConstructorAndGetters (0 ms)
+[ RUN      ] RectangleTest.ValidIntersection
+[       OK ] RectangleTest.ValidIntersection (0 ms)
+[ RUN      ] RectangleTest.NoIntersection
+[       OK ] RectangleTest.NoIntersection (0 ms)
+[ RUN      ] RectangleTest.AreaCalculation
+[       OK ] RectangleTest.AreaCalculation (0 ms)
+[ RUN      ] RectangleTest.IsValidMethod
+[       OK ] RectangleTest.IsValidMethod (0 ms)
+[ RUN      ] RectangleTest.PrintMethod
+[       OK ] RectangleTest.PrintMethod (0 ms)
+[----------] 6 tests from RectangleTest (0 ms total)
+
+[----------] 2 tests from JsonTest
+[ RUN      ] JsonTest.ParseRectangles
+[       OK ] JsonTest.ParseRectangles (8 ms)
+[ RUN      ] JsonTest.MissingOrMalformedJsonFile
+[       OK ] JsonTest.MissingOrMalformedJsonFile (2 ms)
+[----------] 2 tests from JsonTest (10 ms total)
+
+[----------] Global test environment tear-down
+[==========] 8 tests from 2 test suites ran. (11 ms total)
+[  PASSED  ] 8 tests.
+<end of output>
+Test time =   0.50 sec
+----------------------------------------------------------
+Test Passed.
+"UnitTest" end time: Jan 25 20:58 Hora padrão de GMT
+"UnitTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 25 20:58 Hora padrão de GMT

@@ -1,0 +1,48 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Build Main Program",
+            "command": "cmake",
+            "args": [
+                "--build",
+                "${workspaceFolder}/build",
+                "--target",
+                "build_code"
+            ],
+            "problemMatcher": ["$gcc"],
+            "group": { "kind": "build", "isDefault": true }
+        },
+        {
+            "type": "shell",
+            "label": "Run Main Program",
+            "command": "${workspaceFolder}/build/rectangle_build.exe",
+            "args": ["${workspaceFolder}/rectangles.json"],
+            "group": { "kind": "test", "isDefault": false }
+        },
+        {
+            "type": "shell",
+            "label": "Build Tests",
+            "command": "cmake",
+            "args": [
+                "--build",
+                "${workspaceFolder}/build",
+                "--target",
+                "build_tests"
+            ],
+            "problemMatcher": ["$gcc"],
+            "group": { "kind": "build", "isDefault": false }
+        },
+        {
+            "type": "shell",
+            "label": "Run Tests",
+            "command": "ctest",
+            "args": ["--output-on-failure"],
+            "options": {
+                "cwd": "${workspaceFolder}/build"
+            },
+            "group": { "kind": "test", "isDefault": true }
+        }
+    ]
+}

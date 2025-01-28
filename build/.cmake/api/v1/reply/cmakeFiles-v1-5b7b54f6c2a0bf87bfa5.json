@@ -1,0 +1,315 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.31.4/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.31.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.31.4/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC.cmake"
+		},
+		{
+			"path" : "googletest/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.31.4/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "googletest/googlemock/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "googletest/googlemock/cmake/gmock.pc.in"
+		},
+		{
+			"path" : "googletest/googlemock/cmake/gmock_main.pc.in"
+		},
+		{
+			"path" : "googletest/googletest/CMakeLists.txt"
+		},
+		{
+			"path" : "googletest/googletest/cmake/internal_utils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/geova/Downloads/cmake-3.31.4-windows-x86_64/cmake-3.31.4-windows-x86_64/share/cmake-3.31/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"path" : "googletest/googletest/cmake/Config.cmake.in"
+		},
+		{
+			"path" : "googletest/googletest/cmake/gtest.pc.in"
+		},
+		{
+			"path" : "googletest/googletest/cmake/gtest_main.pc.in"
+		},
+		{
+			"path" : "test/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/geova/OneDrive/Ambiente de Trabalho/tests/build",
+		"source" : "C:/Users/geova/OneDrive/Ambiente de Trabalho/tests"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}
